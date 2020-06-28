@@ -15,7 +15,7 @@ object Basic_Operation_DF {
     val CustColumn = df.columns
     println("Column Names")
     println(CustColumn mkString(" , "))
-
+     println("code")
     //al Columninfo = df.describe("_c0")
     //println(Columninfo)
     //df.head(5).foreach(println)
